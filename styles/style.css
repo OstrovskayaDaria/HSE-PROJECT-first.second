@@ -241,3 +241,50 @@ p + p {
 
   background-color: rgb(0 93 221);
 }
+.menu1 {
+  position: absolute;
+  top: 1050px;
+  right: 992px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+
+.menu2 {
+  position: absolute;
+  top: 1050px;
+  right: 950px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+.menu3 {
+  position: absolute;
+  top: 1050px;
+  right: 910px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+.menu4 {
+  position: absolute;
+  top: 1050px;
+  right: 875px;
+
+  width: 25px;
+  height: 3px;
+
+  background-color: white;
+}
+.sec3 {
+  position: absolute;
+  right: 51px;
+
+  margin-top: -160px;
+}
