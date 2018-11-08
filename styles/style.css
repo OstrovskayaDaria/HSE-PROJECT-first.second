@@ -111,9 +111,6 @@ nav ul li {
   margin: 10px auto 0;
 }
 
-.second,{
-  position: static;
-}
 
 h1, h2, h3, p, .centerizer {
   width: 728px;
@@ -190,7 +187,7 @@ p + p {
   bottom: 0;
 
   width: 150px;
-  margin-bottom: 200px;
+  margin-bottom: 180px;
 }
 .sec{
   position: absolute;
@@ -208,6 +205,20 @@ p + p {
 
   background-color: #000000;
 }
-.box3 {
-  background-color: yellow;
+.box {
+  background-color: rgb(0 93 221);
+}
+.flex {
+  display: flex;
+  width: 238px;
+  height: 120px;
+  margin-top: 30px;
+  background-color: black;
+}
+
+.flex: div {
+  width: 158px;
+  height: 7px;
+  border-radius: 15px;
+  background-color: white;
 }
