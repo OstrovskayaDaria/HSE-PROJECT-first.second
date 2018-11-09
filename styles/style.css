@@ -123,7 +123,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  margin-top: 540px;
+  margin-top: 800px;
 
   font-size: 40px;
   line-height: 46px;
@@ -157,24 +157,12 @@ p + p {
   line-height: 10px;
 }
 
-.displayContainer {
-  width: 728px;
-  margin: 10px auto 0;
-}
 
-.block div,
-.inline span,
-.inlineBlock span {
-  width: 100px;
-  height: 100px;
-
-  background-color: yellow;
-}
 .container {
   position: relative;
 
   width: 238px;
-  height: 120px;
+  height: 160px;
   margin-top: 30px;
   margin-left: 0px;
 
@@ -187,7 +175,7 @@ p + p {
   bottom: 0;
 
   width: 150px;
-  margin-bottom: 180px;
+  margin-bottom: 120px;
 }
 .sec {
   position: absolute;
@@ -199,7 +187,7 @@ p + p {
   position: relative;
 
   width: 238px;
-  height: 120px;
+  height: 160px;
   margin-top: 30px;
   margin-left: 0px;
 
@@ -207,7 +195,7 @@ p + p {
 }
 .box {
   position: absolute;
-  top: 820px;
+  top: 870px;
   right: 870px;
 
   width: 158px;
@@ -225,7 +213,7 @@ p + p {
   position: relative;
 
   width: 238px;
-  height: 120px;
+  height: 160px;
   margin-top: 30px;
   margin-left: 0px;
 
@@ -233,7 +221,7 @@ p + p {
 }
 .box1 {
   position: absolute;
-  top: 1050px;
+  top: 1140px;
   right: 870px;
 
   width: 158px;
@@ -243,7 +231,7 @@ p + p {
 }
 .menu1 {
   position: absolute;
-  top: 1050px;
+  top: 1140px;
   right: 992px;
 
   width: 36px;
@@ -254,7 +242,7 @@ p + p {
 
 .menu2 {
   position: absolute;
-  top: 1050px;
+  top: 1140px;
   right: 950px;
 
   width: 36px;
@@ -264,7 +252,7 @@ p + p {
 }
 .menu3 {
   position: absolute;
-  top: 1050px;
+  top: 1140px;
   right: 910px;
 
   width: 36px;
@@ -274,7 +262,7 @@ p + p {
 }
 .menu4 {
   position: absolute;
-  top: 1050px;
+  top: 1140px;
   right: 875px;
 
   width: 25px;
@@ -286,5 +274,90 @@ p + p {
   position: absolute;
   right: 51px;
 
-  margin-top: -160px;
+  margin-top: -130px;
+}
+.done {
+  position: absolute;
+  z-index: -1;
+  right: 386px;
+  bottom: 0;
+
+  width: 150px;
+  margin-bottom: 115px;
+}
+.SP {
+  position: absolute;
+  z-index: -1;
+  right: 838px;
+  bottom: 0;
+
+  width: 238px;
+  margin-bottom: -880px;
+}
+.box2 {
+  position: absolute;
+  top: 1400px;
+  right: 870px;
+
+  width: 158px;
+  height: 7px;
+
+  background-color: rgb(0 93 221);
+}
+.menu5 {
+  position: absolute;
+  top: 1400px;
+  right: 992px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+
+.menu6 {
+  position: absolute;
+  top: 1400px;
+  right: 950px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+.menu7 {
+  position: absolute;
+  top: 1400px;
+  right: 910px;
+
+  width: 36px;
+  height: 3px;
+
+  background-color: white;
+}
+.menu8 {
+  position: absolute;
+  top: 1400px;
+  right: 875px;
+
+  width: 25px;
+  height: 3px;
+
+  background-color: white;
+}
+.sec4 {
+  position: absolute;
+  right: 51px;
+
+  margin-top: 20px;
+}
+.end {
+  position: absolute;
+  z-index: -1;
+  right: 538px;
+  bottom: 0;
+
+  width: 238px;
+  margin-top: 30px;
+  margin-bottom: -1050px;
 }
