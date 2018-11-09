@@ -195,7 +195,7 @@ p + p {
 }
 .box {
   position: absolute;
-  top: 870px;
+  top: 880px;
   right: 870px;
 
   width: 158px;
@@ -221,7 +221,7 @@ p + p {
 }
 .box1 {
   position: absolute;
-  top: 1140px;
+  top: 1160px;
   right: 870px;
 
   width: 158px;
@@ -231,7 +231,7 @@ p + p {
 }
 .menu1 {
   position: absolute;
-  top: 1140px;
+  top: 1162px;
   right: 992px;
 
   width: 36px;
@@ -242,7 +242,7 @@ p + p {
 
 .menu2 {
   position: absolute;
-  top: 1140px;
+  top: 1162px;
   right: 950px;
 
   width: 36px;
@@ -252,7 +252,7 @@ p + p {
 }
 .menu3 {
   position: absolute;
-  top: 1140px;
+  top: 1162px;
   right: 910px;
 
   width: 36px;
@@ -262,7 +262,7 @@ p + p {
 }
 .menu4 {
   position: absolute;
-  top: 1140px;
+  top: 1162px;
   right: 875px;
 
   width: 25px;
@@ -296,7 +296,7 @@ p + p {
 }
 .box2 {
   position: absolute;
-  top: 1400px;
+  top: 1450px;
   right: 870px;
 
   width: 158px;
@@ -306,7 +306,7 @@ p + p {
 }
 .menu5 {
   position: absolute;
-  top: 1400px;
+  top: 1452px;
   right: 992px;
 
   width: 36px;
@@ -317,7 +317,7 @@ p + p {
 
 .menu6 {
   position: absolute;
-  top: 1400px;
+  top: 1452px;
   right: 950px;
 
   width: 36px;
@@ -327,7 +327,7 @@ p + p {
 }
 .menu7 {
   position: absolute;
-  top: 1400px;
+  top: 1452px;
   right: 910px;
 
   width: 36px;
@@ -337,7 +337,7 @@ p + p {
 }
 .menu8 {
   position: absolute;
-  top: 1400px;
+  top: 1452px;
   right: 875px;
 
   width: 25px;
