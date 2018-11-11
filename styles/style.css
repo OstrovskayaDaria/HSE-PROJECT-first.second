@@ -59,7 +59,7 @@ nav a:hover {
 
 }
 
-input {
+.input {
   width: 50px;
   margin-top: -5px;
   padding: 0;
@@ -118,15 +118,18 @@ h1, h2, h3, p, .centerizer {
 }
 
 h1, h2, h3 {
-  font-family: 'PT Sans Caption', sans-serif;
+  font-family: Helvetica;
   font-weight: bold;
 }
 
 h1 {
-  margin-top: 800px;
+  margin-top: 2560px;
+  margin-bottom: 150px;
 
-  font-size: 40px;
-  line-height: 46px;
+  color: rgb(250 250 250);
+
+  font-size: 50px;
+  line-height: 200px;
 }
 
 h2 {
@@ -157,207 +160,213 @@ p + p {
   line-height: 10px;
 }
 
+.crawling {
+  position: absolute;
+  z-index: -1;
+  right: 730px;
+  bottom: 0;
+
+  width: 350px;
+  margin-bottom: 370px;
+}
+
+.steps1{
+  position: relative;
+  z-index: -1;
+  right: 85px;
+  bottom: 0;
+
+  width: 300px;
+  margin-top: -150px;
+  margin-bottom: 150px;
+}
 
 .container {
   position: relative;
 
-  width: 238px;
-  height: 160px;
-  margin-top: 30px;
-  margin-left: 0px;
+  width: 650px;
+  height: 400px;
+  margin-top: -300px;
+  margin-left: -1px;
 
   background-color: #000000;
 }
-.crawling {
-  position: absolute;
+
+.steps2{
+  position: relative;
   z-index: -1;
-  right: 437px;
+  right: 85px;
   bottom: 0;
 
-  width: 150px;
-  margin-bottom: 120px;
+  width: 300px;
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
-.sec {
-  position: absolute;
-  right: 51px;
 
-  margin-top: -160px;
-}
 .container2 {
   position: relative;
 
-  width: 238px;
-  height: 160px;
-  margin-top: 30px;
+  width: 650px;
+  height: 400px;
+  margin-top: -300px;
   margin-left: 0px;
 
   background-color: #000000;
 }
 .box {
   position: absolute;
-  top: 880px;
-  right: 870px;
+  top: 1408px;
+  right: 520px;
 
-  width: 158px;
-  height: 7px;
+  width: 450px;
+  height: 50px;
 
   background-color: rgb(0 93 221);
 }
-.sec2 {
-  position: absolute;
-  right: 51px;
+.steps3{
+  position: relative;
+  z-index: -1;
+  right: 85px;
+  bottom: 0;
 
-  margin-top: -160px;
+  width: 300px;
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
+
 .container3 {
   position: relative;
 
-  width: 238px;
-  height: 160px;
-  margin-top: 30px;
+  width: 650px;
+  height: 400px;
+  margin-top: -300px;
   margin-left: 0px;
 
   background-color: #000000;
 }
+
 .box1 {
   position: absolute;
-  top: 1160px;
-  right: 870px;
+  top: 2121px;
+  right: 520px;
 
-  width: 158px;
-  height: 7px;
+  width: 450px;
+  height: 50px;
 
   background-color: rgb(0 93 221);
 }
 .menu1 {
   position: absolute;
-  top: 1162px;
-  right: 992px;
+  top: 2135px;
+  right: 530px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 
 .menu2 {
   position: absolute;
-  top: 1162px;
-  right: 950px;
+  top: 2135px;
+  right: 640px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 .menu3 {
   position: absolute;
-  top: 1162px;
-  right: 910px;
+  top: 2135px;
+  right: 750px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 .menu4 {
   position: absolute;
-  top: 1162px;
-  right: 875px;
+  top: 2135px;
+  right: 860px;
 
-  width: 25px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
-.sec3 {
-  position: absolute;
-  right: 51px;
 
-  margin-top: -130px;
-}
-.done {
-  position: absolute;
+.steps4{
+  position: relative;
   z-index: -1;
-  right: 386px;
+  right: 85px;
   bottom: 0;
 
-  width: 150px;
-  margin-bottom: 115px;
+  width: 300px;
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
 .SP {
   position: absolute;
   z-index: -1;
-  right: 838px;
   bottom: 0;
 
-  width: 238px;
-  margin-bottom: -880px;
+  width: 650px;
+  margin-top: -300px;
+  margin-bottom: -2482px;
+  margin-left: -302px;
 }
+
 .box2 {
   position: absolute;
-  top: 1450px;
-  right: 870px;
+  top: 2817px;
+  right: 520px;
 
-  width: 158px;
-  height: 7px;
+  width: 450px;
+  height: 50px;
 
   background-color: rgb(0 93 221);
 }
+
 .menu5 {
   position: absolute;
-  top: 1452px;
-  right: 992px;
+  top: 2831px;
+  right: 530px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 
 .menu6 {
   position: absolute;
-  top: 1452px;
-  right: 950px;
+  top: 2831px;
+  right: 640px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 .menu7 {
   position: absolute;
-  top: 1452px;
-  right: 910px;
+  top: 2831px;
+  right: 750px;
 
-  width: 36px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
 }
 .menu8 {
   position: absolute;
-  top: 1452px;
-  right: 875px;
+  top: 2831px;
+  right: 860px;
 
-  width: 25px;
-  height: 3px;
+  width: 100px;
+  height: 20px;
 
   background-color: white;
-}
-.sec4 {
-  position: absolute;
-  right: 51px;
-
-  margin-top: 20px;
-}
-.end {
-  position: absolute;
-  z-index: -1;
-  right: 538px;
-  bottom: 0;
-
-  width: 238px;
-  margin-top: 30px;
-  margin-bottom: -1050px;
 }
